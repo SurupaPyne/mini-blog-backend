@@ -23,8 +23,8 @@ A simple Express.js + LowDB API to serve and manage blog posts.
 ---
 
 ## Getting Started
-cd mini-blog-backend
-node server.js
+## cd mini-blog-backend
+## node server.js
 
 ## Clone the repository
 
