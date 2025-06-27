@@ -1,9 +1,19 @@
 {
   "posts": [
     {
-      "title": "blog",
-      "body": "Blog posts are online articles that share information, opinions, or experiences, often in a conversational and engaging style. They can cover a wide range of topics, from personal anecdotes to in-depth analyses of complex subjects. A good blog post is clear, concise, and provides value to the reader. .",
+      "title": "Digitalization – The Future of Marketing",
+      "body": "Digital Marketing has grown to become a more powerful tool than ever before. In a scenario of intense competition, it has become necessary to have a good media presence. Thus, more and more businesses have started investing their resources in Digital Marketing, making it a hot buzz in the marketing structure.",
       "id": "mZHu9L2bQ0gCo7t_ptZr-"
+    },
+    {
+      "title": "How to Become a Better Coder?",
+      "body": "t’s time to get serious about improving your programming skills. Let’s do it! That’s an easy career improvement goal to give oneself, but “become a kick-ass programmer” is not a simple goal. For one thing, saying, “I want to get better” assumes that you recognize what “better” looks like. Plus, too many people aim for improvement without any sense of how to get there.",
+      "id": "nJDrUjoUFp1m19aVZb4GE"
+    },
+    {
+      "title": "Blockchain Technology From Scratch",
+      "body": "Blockchain comprises of two words, Block and Chain. To understand these terms let's consider a simple example of money transferring. Let's say you want to transfer some funds to your friends. Now before you make the transaction, you make sure that this information is recorded somewhere. In our case, it can be a bank or a register.",
+      "id": "GR5W8AgIw6dbwb0QYSLne"
     }
   ]
 }
