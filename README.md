@@ -37,9 +37,14 @@ http://localhost:9001
 All endpoints are prefixed with /admin/posts.
 
 Method	Endpoint	Description
-GET	/admin/posts	Get all blog posts
-GET	/admin/posts/:id	Get a post by ID
-POST	/admin/posts	Create a new blog post
-PUT	/admin/posts/:id	Update an existing post
-DELETE	/admin/posts/:id	Delete a post by ID
+## Get all blog posts
+## GET	       http://localhost:9001/admin/posts	
+## Get a post by ID
+## GET	       http://localhost:9001/admin/posts/:id
+## Create a new blog post	
+## POST	       http://localhost:9001/admin/posts	
+## Update an existing post
+## PUT	       http://localhost:9001/admin/posts/:id	
+## Delete a post by ID
+## DELETE      http://localhost:9001/admin/posts/:id	
 
